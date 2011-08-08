@@ -36,8 +36,8 @@ include_path=None
 # You must set both 'library_path' and 'include_path'
 
 # Linux, generic UNIX
-#library_path='/usr/lib/graphviz'
-#include_path='/usr/include/graphviz'
+library_path='/usr/lib/graphviz'
+include_path='/usr/include/graphviz'
 
 # OSX, Linux, alternate location
 #library_path='/usr/local/lib/graphviz'
