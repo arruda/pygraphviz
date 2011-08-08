@@ -40,8 +40,8 @@ include_path=None
 #include_path='/usr/include/graphviz'
 
 # OSX, Linux, alternate location
-#library_path='/usr/local/lib/graphviz'
-#include_path='/usr/local/include/graphviz'
+library_path='/usr/local/lib/graphviz'
+include_path='/usr/local/include/graphviz'
 
 # OSX (Fink)
 #library_path='/sw/lib/graphviz'
